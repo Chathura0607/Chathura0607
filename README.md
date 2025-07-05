@@ -17,6 +17,10 @@
   <pre>
 🌟 THE CODE ALCHEMIST 🌟
   </pre>
+
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Crafting+Digital+Experiences+with+Precision;Transforming+Ideas+into+Code;Creativity+Powered+by+Tech+Magic" />
+</div>
 </div>
 
 ```typescript

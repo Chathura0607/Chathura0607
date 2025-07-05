@@ -1,23 +1,17 @@
-<!-- Modernized GitHub Profile README for Chathura Lakmina with All Sections -->
-
-<!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=300&section=header&text=✨%20Chathura%20Lakmina%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Magic&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
-<!-- TYPING EFFECT -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Crafting+Digital+Experiences+with+Mystical+Precision+✨;Transforming+Ideas+into+Digital+Reality+🌟;Coding+with+the+Power+of+Creativity+and+Magic+🔮" />
 </div>
 
-<!-- MATRIX ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
 </div>
 
 ---
 
-<!-- ABOUT ME -->
 <div align="center">
   <h2>✨ About Me ✨</h2>
   <pre>
@@ -55,7 +49,6 @@ class DigitalSorcerer {
 
 ---
 
-<!-- Magical Arsenal -->
 <div align="center">
   <h2>✨ Magical Arsenal ✨</h2>
 </div>
@@ -76,7 +69,7 @@ class DigitalSorcerer {
 <details>
   <summary style="font-size: 1.25rem; font-weight: bold;">🔮 Backend Sorcery</summary>
   <div align="center" style="margin-top: 10px; font-size: 1rem;">
-
+    
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -101,7 +94,6 @@ class DigitalSorcerer {
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
   <h2>✨ GitHub Magic ✨</h2>
 </div>
@@ -117,7 +109,6 @@ class DigitalSorcerer {
 
 ---
 
-<!-- Connect With Me -->
 <div align="center">
   <h2>✨ Magical Connections ✨</h2>
 </div>
@@ -136,9 +127,8 @@ class DigitalSorcerer {
 
 ---
 
-<!-- Visitor Counter -->
 <div align="center">
   <h3>✨ Enchanted Visitors ✨</h3>
   <img src="https://profile-counter.glitch.me/chathuralakmina/count.svg" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
-</div>
+</div> update this to modern type

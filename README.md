@@ -131,4 +131,4 @@ class DigitalSorcerer {
   <h3>✨ Enchanted Visitors ✨</h3>
   <img src="https://profile-counter.glitch.me/chathuralakmina/count.svg" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
-</div> update this to modern type
+</div> 

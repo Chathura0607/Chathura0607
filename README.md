@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Chathura0607&theme=neon&stats=true" alt="3D Isometric Contributions" width="100%" />
 </p>
 
 ---

@@ -36,7 +36,9 @@
         </p>
       </td>
       <td width="45%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" />
+        <a href="https://github.com/Chathura0607">
+          <img src="https://capsule-render.vercel.app/api?type=circle&color=0:7928CA,50:FF0080,100:4F46E5&height=280&text=✨&fontAlignY=50&reversal=false&animation=fadeIn&stroke=10&strokeColor=ffffff&url=https://github.com/Chathura0607.png" width="100%" alt="Profile Photo" />
+        </a>
       </td>
     </tr>
   </table>
@@ -80,7 +82,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chathuralakmina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/chathura_lakmina" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />

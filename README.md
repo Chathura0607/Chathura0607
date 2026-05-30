@@ -36,8 +36,8 @@
         </p>
       </td>
       <td width="45%" align="center">
-        <a href="https://github.com/Chathura0607">
-          <img src="https://capsule-render.vercel.app/api?type=circle&color=0:7928CA,50:FF0080,100:4F46E5&height=280&text=✨&fontAlignY=50&reversal=false&animation=fadeIn&stroke=10&strokeColor=ffffff&url=https://github.com/Chathura0607.png" width="100%" alt="Profile Photo" />
+        <a href="https://chathura0607.github.io/Portfolio/">
+          <img src="https://capsule-render.vercel.app/api?type=circle&color=0:7928CA,50:FF0080,100:4F46E5&height=280&text=✨&fontAlignY=50&reversal=false&animation=fadeIn&stroke=10&strokeColor=ffffff&url=https://chathura0607.github.io/Portfolio/assets/photos/351322367_245022038135748_1556129062014994545_n%20(1).jpg" width="100%" alt="Portfolio Profile Photo" />
         </a>
       </td>
     </tr>

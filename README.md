@@ -1,30 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=CHATHURA%20LAKMINA&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20|%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=300&section=header&text=CHATHURA%20LAKMINA&fontSize=80&animation=twinkling&fontAlignY=35&desc=THE%20FULL-STACK%20SORCERER&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=1000&lines=Crafting+Digital+Excellence;Transforming+Ideas+Into+Reality;Building+Modern+Web+Applications;The+Future+of+Code+is+Here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=1000&lines=Crafting+Digital+Excellence;Transforming+Ideas+Into+Reality;Building+Modern+Web+Applications;The+Future+of+Code+is+Here" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
 
 ---
 
-### ⚡ ABOUT ME
+### 🔮 THE JOURNEY SO FAR
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="50%">
+      <td width="55%">
         <p align="left">
-          👋 <b>Hello there!</b> I'm <b>Chathura Lakmina</b>, a passionate <b>Full Stack Developer</b> based in Sri Lanka. I specialize in building high-performance web applications using modern technologies.
+          ✨ <b>Greetings, Traveler!</b> I'm <b>Chathura Lakmina</b>, a Software Alchemist based in the beautiful island of Sri Lanka 🇱🇰.
         </p>
         <p align="left">
-          🎓 Studying at <b>Institute of Software Engineering (IJSE)</b>.
-          <br>🚀 Constantly exploring new technologies and frameworks.
-          <br>🎨 Deeply interested in UI/UX and clean architecture.
+          🚀 Currently mastering the arts of <b>Full Stack Development</b> at the <b>Institute of Software Engineering (IJSE)</b>. 
+        </p>
+        <p align="left">
+          🌌 My mission is to blend <b>aesthetic design</b> with <b>powerful logic</b> to create digital experiences that feel like magic.
+        </p>
+        <p align="left">
+          ⚡ <b>Specialities:</b> High-performance Backends, Responsive Frontends, and Seamless Cloud Integrations.
         </p>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=transparent&hide_border=true&title_color=7928CA&text_color=ffffff&icon_color=7928CA" width="100%"/>
+      <td width="45%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
       </td>
     </tr>
   </table>
@@ -32,34 +40,42 @@
 
 ---
 
-### 🛠️ TECH STACK
+### 🛠️ MAGICAL ARTIFACTS (TECH STACK)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,intellij,vscode,figma,postman,ps" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,intellij,vscode,figma,postman,ps&perline=10" />
+  </p>
 </div>
 
 ---
 
-### 📊 GITHUB PERFORMANCE
+### 📊 DIGITAL FOOTPRINT
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=transparent&hide_border=true&stroke=7928CA&ring=7928CA&fire=7928CA&currStreakNum=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=7928CA&text_color=ffffff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chathura0607&theme=react-dark&bg_color=0D1117&hide_border=true&color=7928CA" width="100%" />
 </div>
 
 ---
 
-### 🛡️ SPECIALITIES
+### 🛡️ EXPERTISE
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20|%20Node.js-7928CA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20|%20Next.js-4F46E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20|%20MongoDB-06B6D4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Code-7928CA?style=for-the-badge&logo=codeproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20%26%20Node-FF0080?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%26%20TS-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 ---
 
-### 📬 CONNECT WITH ME
+### 📬 SUMMON ME
 
 <div align="center">
   <a href="https://linkedin.com/in/chathura-lakmina" target="_blank">
@@ -79,9 +95,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chathura0607&color=7928CA&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Chathura0607&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&text=DESIGNED%20BY%20CHATHURA%20LAKMINA&fontSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=150&section=footer&text=CODE%20WITH%20PASSION&fontSize=30&animation=twinkling" width="100%"/>
 </div>

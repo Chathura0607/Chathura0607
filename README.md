@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=300&section=header&text=CHATHURA%20LAKMINA&fontSize=80&animation=twinkling&fontAlignY=35&desc=THE%20FULL-STACK%20SORCERER&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=300&section=header&text=CHATHURA%20LAKMINA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=THE%20FULL-STACK%20ALCHEMIST&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,23 +12,25 @@
 
 ---
 
-### 🔮 THE JOURNEY SO FAR
+<div align="center">
+  <h2>✨ THE MAGICIAN'S PROFILE ✨</h2>
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="55%">
         <p align="left">
-          ✨ <b>Greetings, Traveler!</b> I'm <b>Chathura Lakmina</b>, a Software Alchemist based in the beautiful island of Sri Lanka 🇱🇰.
+          👋 <b>Greetings, World!</b> I'm <b>Chathura Lakmina</b>, a Software Engineer who believes that code is the modern-day magic.
         </p>
         <p align="left">
-          🚀 Currently mastering the arts of <b>Full Stack Development</b> at the <b>Institute of Software Engineering (IJSE)</b>. 
+          🚀 Currently a student at <b>Institute of Software Engineering (IJSE)</b>, specializing in <b>Full-Stack Development</b>.
         </p>
         <p align="left">
-          🌌 My mission is to blend <b>aesthetic design</b> with <b>powerful logic</b> to create digital experiences that feel like magic.
+          🎨 My design philosophy: <b>"Clean, Aesthetic, and Intuitive."</b> I don't just write code; I craft experiences.
         </p>
         <p align="left">
-          ⚡ <b>Specialities:</b> High-performance Backends, Responsive Frontends, and Seamless Cloud Integrations.
+          🛠️ <b>Mission:</b> Solving complex problems with simple, elegant solutions.
         </p>
       </td>
       <td width="45%">
@@ -40,24 +42,28 @@
 
 ---
 
-### 🛠️ MAGICAL ARTIFACTS (TECH STACK)
-
 <div align="center">
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,intellij,vscode,figma,postman,ps&perline=10" />
-  </p>
+  <h3>🛠️ THE ARSENAL (TECH STACK)</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,intellij,vscode,figma,postman,ps&perline=10" />
 </div>
 
 ---
 
-### 📊 DIGITAL FOOTPRINT
+<div align="center">
+  <h3>🏆 THE TROPHY CASE</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical&no-frame=true&column=6" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 THE DATA ROOM</h3>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chathura0607&theme=react-dark&bg_color=0D1117&hide_border=true&color=7928CA" width="100%" />
@@ -65,17 +71,16 @@
 
 ---
 
-### 🛡️ EXPERTISE
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Code-7928CA?style=for-the-badge&logo=codeproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20%26%20Node-FF0080?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20TS-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
+  <h3>💡 DAILY INSPIRATION</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-### 📬 SUMMON ME
+<div align="center">
+  <h3>📬 CONTACT THE SORCERER</h3>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/chathura-lakmina" target="_blank">
@@ -99,5 +104,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=150&section=footer&text=CODE%20WITH%20PASSION&fontSize=30&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=150&section=footer&text=DESIGNED%20WITH%20✨%20BY%20CHATHURA&fontSize=30&animation=fadeIn" width="100%"/>
 </div>

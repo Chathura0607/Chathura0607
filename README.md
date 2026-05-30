@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=300&section=header&text=✨%20Chathura%20Lakmina%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Magic&descAlignY=60&descSize=25" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Crafting+Digital+Experiences+with+Mystical+Precision+✨;Transforming+Ideas+into+Digital+Reality+🌟;Coding+with+the+Power+of+Creativity+and+Magic+🔮" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=300&section=header&text=✨%20Chathura%20Lakmina%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Mystical%20Precision&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
@@ -85,11 +81,10 @@ class DigitalSorcerer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---

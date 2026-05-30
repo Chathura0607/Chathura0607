@@ -81,11 +81,10 @@ class DigitalSorcerer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
 </div>
 
 ---
@@ -113,7 +112,7 @@ class DigitalSorcerer {
 
 <div align="center">
   <h3>✨ Enchanted Visitors ✨</h3>
-  <img src="https://komarev.com/ghpvc/?username=Chathura0607&color=4F46E5&style=flat-square&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=Chathura0607&color=4F46E5&style=flat-square&label=VISITORS" alt="Visitor Count" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
 </div>

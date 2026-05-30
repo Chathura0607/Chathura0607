@@ -81,11 +81,11 @@ class DigitalSorcerer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ---

@@ -35,8 +35,8 @@
           ⚡ <b>Current Focus:</b> Microservices, Cloud Computing, and Performance Optimization.
         </p>
       </td>
-      <td width="45%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+      <td width="45%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -44,23 +44,23 @@
 
 ---
 
+### 🛠️ TECHNICAL ARSENAL
+
 <div align="center">
-  <h3>🛠️ TECHNICAL ARSENAL</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,git,github,intellij,vscode,figma,postman,ps&perline=10" />
 </div>
 
 ---
 
+### 🏆 ACHIEVEMENTS
+
 <div align="center">
-  <h3>🏆 ACHIEVEMENTS</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical&no-frame=true&column=6" />
 </div>
 
 ---
 
-<div align="center">
-  <h3>📊 ACTIVITY METRICS</h3>
-</div>
+### 📊 ACTIVITY METRICS
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical&hide_border=true" height="180" />
@@ -73,16 +73,14 @@
 
 ---
 
-<div align="center">
-  <h3>📡 UPLINK</h3>
-</div>
+### 📡 UPLINK
 
 <div align="center">
   <a href="https://linkedin.com/in/chathura-lakmina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chathuralakmina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/chathura_lakmina" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />

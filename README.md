@@ -84,7 +84,7 @@
   <a href="mailto:chathuralakmina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/chathura_lakmina" target="_blank">
+  <a href="https://www.instagram.com/__cha.thu_?igsh=MXZucW1kdWZhYW02aA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://behance.net/chathuralakmina" target="_blank">

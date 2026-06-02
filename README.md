@@ -99,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=150&section=footer&text=DESIGNED%20WITH%20✨%20BY%20CHATHURA&fontSize=30&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:4F46E5&height=150&section=footer&text=DESIGNED%20BY%20CHATHURA&fontSize=30&animation=fadeIn" width="100%"/>
 </div>
